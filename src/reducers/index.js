@@ -6,7 +6,3 @@ export default combineReducers({
   libraries: LibraryReducer,
   selectedLibraryId: SelectionReducer
 });
-
-
-
-
